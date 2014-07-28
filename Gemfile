@@ -7,6 +7,7 @@ gem 'rails', '3.2.9'
 
 
 gem 'bootstrap-sass', '~> 2.2.1.1'
+gem 'json','1.8.1'
 
 
 

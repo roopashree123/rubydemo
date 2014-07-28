@@ -1,4 +1,10 @@
 Online::Application.routes.draw do
+  resources :mostones
+
+
+  resources :strongs
+
+
   get "sample/home"
 
   get "sample/about"

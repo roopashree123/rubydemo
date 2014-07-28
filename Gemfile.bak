@@ -40,7 +40,7 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 group :development, :test do
-gem 'mysql-ruby', :require => "mysql"
+gem 'mysql', :require => "mysql"
 end
 
 group :production do
